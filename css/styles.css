@@ -14,13 +14,13 @@ body {
 .container {
     margin: 0 auto;
     max-width: 750px;
-    padding: 2em;
     width: 80%;
 }
 
 /** Hero Section Styling */
 .hero-bg {
     background-color: #23424a;
+    padding: 2em;
 }
 
 .hero-tx {
